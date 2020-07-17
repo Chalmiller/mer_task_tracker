@@ -1,2 +1,2 @@
-# mer_task_tracker
+# mern_task_tracker
 MERN based task tracker (in development)
